@@ -27,8 +27,9 @@ class Program
 
                 try
                 {                
-           
+                    //skirver ut alla tillgänliga poster efter att init körs men även när programmet startar om för att alltid visa de senaste. 
                     PrintPost();
+                    //visar val för användaren
                     Console.WriteLine("1 = addera post. 2 = ta bort");
                     int inputData = int.Parse(Console.ReadLine());
                     if(inputData == 1)
