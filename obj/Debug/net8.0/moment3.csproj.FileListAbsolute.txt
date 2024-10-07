@@ -12,3 +12,4 @@ D:\studier\DT071G\moment3\obj\Debug\net8.0\refint\moment3.dll
 D:\studier\DT071G\moment3\obj\Debug\net8.0\moment3.pdb
 D:\studier\DT071G\moment3\obj\Debug\net8.0\moment3.genruntimeconfig.cache
 D:\studier\DT071G\moment3\obj\Debug\net8.0\ref\moment3.dll
+D:\studier\DT071G\moment3\obj\Debug\net8.0\moment3.sourcelink.json
