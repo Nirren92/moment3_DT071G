@@ -24,7 +24,7 @@ class Program
             //loopar om programmet och lägger en till try som fångar upp fel som sker inder körning. 
             while(true)
             {
-
+                Console.Clear();
                 try
                 {                
                     //skirver ut alla tillgänliga poster efter att init körs men även när programmet startar om för att alltid visa de senaste. 
