@@ -32,6 +32,7 @@ class Program
                     //visar val för användaren
                     Console.WriteLine("1 = addera post. 2 = ta bort");
                     int inputData = int.Parse(Console.ReadLine());
+                    Console.Clear();
                     if(inputData == 1)
                     {
                         addPost();
